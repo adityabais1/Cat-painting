@@ -1,6 +1,6 @@
 # Cat Face Painting Using CSS
 
-![Cat Face Painting](cat-face-painting.png)
+![Cat Face Painting](Cat-Painting-ScreenShot.png)
 
 This project showcases a cute cat face painting created using only CSS. It's a fun and creative way to learn about CSS properties and their visual effects.
 
@@ -8,9 +8,6 @@ This project showcases a cute cat face painting created using only CSS. It's a f
 
 This cat face painting is designed with various CSS shapes and properties to depict a charming cat face. By leveraging CSS, you can create artistic visuals without relying on images.
 
-## Preview
-
-Insert a preview image or GIF of the cat face painting here.
 
 ## Getting Started
 
@@ -18,7 +15,7 @@ To view the cat face painting, follow these steps:
 
 1. Clone this repository to your local machine or download it as a ZIP file.
 
-2. Open the `index.html` file in a web browser.
+2. Open the `index.htm` file in a web browser.
 
 3. Admire the adorable cat face painting created with CSS!
 
